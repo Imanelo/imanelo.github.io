@@ -19,16 +19,19 @@ function About() {
             <div className="about-body">
                 <div className="about-description">
                     <h2 style={{color: theme.primary}}>{aboutData.title}</h2>
-                    <p style={{color:theme.tertiary80}}>{aboutData.description1}<br/><br/>{aboutData.description2}</p>
+                    <p style={{color:theme.tertiary80}}>{aboutData.description1}<br/><br/>{aboutData.description2}<br/><br/>{aboutData.description3}<br/><br/>{aboutData.description4}<br/><br/>{aboutData.description5}</p>
                 </div>
                 <div className="about-img">
                     <img 
-                        src={aboutData.image === 1 ? theme.aboutimg1 : theme.aboutimg2}  
+                        src={aboutData.image === 1 ? theme.aboutimg2 : theme.aboutimg1}  
                         alt="" 
                     />
                 </div>
             </div>
+            <div style={{ height: '80px' }}></div>
         </div>
+        
+        
 
     )
 }

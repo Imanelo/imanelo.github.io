@@ -1,0 +1,25 @@
+/* ElevatorPitch.css */
+
+.my-elevator-pitch {
+    margin-top: 80px; /* Adjust the margin to create space below the "About" section */
+    margin-bottom: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.my-elevator-pitch h2 {
+    font-size: 3rem;
+    color: var(--primaryColor); /* Use your primary color here */
+    margin-bottom: 20px;
+    font-family: var(--primaryFont);
+}
+
+.my-elevator-pitch video {
+    max-width: 80%;
+    border-radius: 8px;
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+}
