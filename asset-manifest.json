@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d276d4c9.chunk.css",
-    "main.js": "/static/js/main.0e491a97.chunk.js",
-    "main.js.map": "/static/js/main.0e491a97.chunk.js.map",
+    "main.js": "/static/js/main.19e6faf0.chunk.js",
+    "main.js.map": "/static/js/main.19e6faf0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.86f12ff2.js",
     "runtime-main.js.map": "/static/js/runtime-main.86f12ff2.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -15,7 +15,7 @@
     "static/css/main.d276d4c9.chunk.css.map": "/static/css/main.d276d4c9.chunk.css.map",
     "static/js/2.590b48be.chunk.js.LICENSE.txt": "/static/js/2.590b48be.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
-    "static/media/Devesh.b0e71f70.jpeg": "/static/media/Devesh.b0e71f70.jpeg",
+    "static/media/Imane.d12f453b.jpg": "/static/media/Imane.d12f453b.jpg",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/static/media/adobeaudition.afa937d5.svg",
     "static/media/after-effects.3c076652.svg": "/static/media/after-effects.3c076652.svg",
@@ -157,6 +157,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.590b48be.chunk.js",
     "static/css/main.d276d4c9.chunk.css",
-    "static/js/main.0e491a97.chunk.js"
+    "static/js/main.19e6faf0.chunk.js"
   ]
 }
