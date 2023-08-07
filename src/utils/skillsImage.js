@@ -1,4 +1,9 @@
 import gcp from '../assets/svg/skills/gcp.svg'
+import karate from '../assets/svg/skills/karate.svg'
+import cucumber from '../assets/svg/skills/cucumber.svg'
+import jenkins from '../assets/svg/skills/jenkins.svg'
+import ubuntu from '../assets/svg/skills/ubuntu.svg'
+import restapi from '../assets/svg/skills/restapi.svg'
 import html from '../assets/svg/skills/html.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
 import illustrator from '../assets/svg/skills/illustrator.svg'
@@ -231,7 +236,16 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
-        
+        case 'cucumber':
+            return cucumber;
+        case 'karate':
+            return karate;
+        case 'restapi':
+            return restapi;
+        case 'jenkins':
+            return jenkins;
+        case 'ubuntu':
+            return ubuntu;
         default:
             break;
     }

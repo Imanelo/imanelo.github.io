@@ -2,12 +2,18 @@
     'HTML',
     'CSS',
     'Javascript',
-    "Node JS",
-    'React',
-    "MongoDB",
+    "MySQL",
+    'Docker',
+    'Ubuntu',
+    'AWS',
+    'Python',
+    'Java',
     "Git",
-    "Bootstrap",
-    "Microsoft Office"
+    "Microsoft Office",
+    "Karate",
+    "Cucumber",
+    "RestApi",
+    "Jenkins"
   
 ]
 
@@ -96,4 +102,9 @@
     Tensorflow
     Webex
     Wordpress
+    Karate
+    Cucumber
+    RestApi
+    Jenkins
+    Ubuntu
 */
