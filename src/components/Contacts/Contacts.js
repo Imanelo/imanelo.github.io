@@ -28,6 +28,7 @@ import { contactsData } from '../../data/contactsData';
 import './Contacts.css';
 
 function Contacts() {
+    const apiKey = process.env.REACT_APP_SHEETDB_API_KEY;
     const [open, setOpen] = useState(false);
 
     const [name, setName] = useState('');
@@ -140,7 +141,12 @@ function Contacts() {
                     message: message,
                 };
 
-                axios.post(contactsData.sheetAPI, responseData).then((res) => {
+                axios.post(contactsData.sheetAPI, responseData, {
+                    headers: {
+                      'Authorization': `Bearer ${apiKey}`
+                    }
+                  })
+                .then((res) => {
                     console.log('success');
                     setSuccess(true);
                     setErrMsg('');
@@ -176,7 +182,6 @@ function Contacts() {
                                     Name
                                 </label>
                                 <input
-                                    placeholder='Devesh Verma'
                                     value={name}
                                     onChange={(e) => setName(e.target.value)}
                                     type='text'
@@ -192,7 +197,6 @@ function Contacts() {
                                     Email
                                 </label>
                                 <input
-                                    placeholder='devesh@gmail.com'
                                     value={email}
                                     onChange={(e) => setEmail(e.target.value)}
                                     type='email'
