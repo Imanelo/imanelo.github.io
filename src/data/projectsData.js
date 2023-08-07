@@ -12,13 +12,14 @@ export const projectsData = [
     
     {
         id: 2,
-        projectName: 'MARRIOTT BONOY CLONE',
-        projectDesc: 'It is a web application to book hotels.',
-        tags: ['HTML', 'CSS', 'JavaScript'],
-        code: 'https://github.com/webdeveshverma/Marriott_Bonvoy_clone.github.io',
-        demo: 'https://personal-iota-flame.vercel.app/',
+        projectName: 'CoopAp Pitch Deck',
+        projectDesc: 'Promote Sustainable Tourism in partnership with Moroccan Cooperatives.',
+        tags: ['GCGO : Tourism', 'Google Slides', 'App'],
+        code: 'https://docs.google.com/presentation/d/1qn8NegnqCaftNRQb34CLdzF65g3A0RTE4lOxXSTAptY/edit?usp=sharing',
+        demo: 'https://youtu.be/BuKOFbW00E8',
         image: 'https://i.ibb.co/HrWfTyr/Marriott.png'
     },
+    /*
     {
         id: 3,
         projectName: 'Agoda Clone',
@@ -37,6 +38,7 @@ export const projectsData = [
         demo: 'https://webdeveshverma.github.io/Check-Weather-Appliction-/',
         image: 'https://i.ibb.co/C9hZWVN/Weather-app.png'
     },
+    */
    
 ]
 

@@ -76,7 +76,7 @@ function ProjectPage() {
                 <Link to="/">
                         <AiOutlineHome className={classes.home}/>
                 </Link>
-                <h1 style={{color: theme.secondary}}>Projects</h1>
+                <h1 style={{color: theme.secondary}}>Portfolio</h1>
             </div>
            <div className="projectPage-container">
                <div className="projectPage-search">

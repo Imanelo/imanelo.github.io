@@ -4,6 +4,7 @@
     align-items: center;
     justify-content: flex-start;
     min-height: 100vh;
+    margin-bottom: 2rem;
 }
 
 .projectPage-header {
@@ -27,6 +28,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+    
 }
 
 .projectPage-search {

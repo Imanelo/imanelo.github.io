@@ -210,6 +210,21 @@ function Navbar() {
                                 </div>
                             </NavLink>
                         </Fade>
+                        <Fade left>
+                            <NavLink
+                                to='/#my-pitch'
+                                smooth={true}
+                                spy='true'
+                                duration={2000}
+                            >
+                                <div className={classes.drawerItem}>
+                                    <FaUser className={classes.drawerIcon} />
+                                    <span className={classes.drawerLinks}>
+                                        Pitch
+                                    </span>
+                                </div>
+                            </NavLink>
+                        </Fade>
 
                         <Fade left>
                             <NavLink

@@ -15,13 +15,13 @@ function Main() {
             <Landing />
             <About />
             <ElevatorPitch />
-            <Education />
-            <Skills />
             {/* <Experience /> */}
             <Projects />
             {/* <Achievement /> */}
             {/* <Services /> */}
             {/* <Testimonials /> */}
+            <Education />
+            <Skills />
             <Blog />
             <Contacts />
             <Footer />

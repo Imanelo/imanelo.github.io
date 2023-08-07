@@ -9,7 +9,7 @@ function ElevatorPitch() {
     const { theme } = useContext(ThemeContext);
 
     return (
-        <div className="my-elevator-pitch">
+        <div className="my-elevator-pitch" id="my-pitch">
             <h2 style={{ color: theme.primary }}>My Elevator Pitch</h2>
             <video controls  height="auto">
             <source src={ElevatorPitchData.Video} type="video/mp4" />
