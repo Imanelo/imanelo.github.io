@@ -3,7 +3,7 @@ import  Imane  from '../jpg/Imane.jpg'
 export const headerData = {
     name: 'Imane El ouadi',
     title: "NetDevOps Engineer",
-    desciption:"NetDevOps Engineer with a set of skills in Network topologies, automation and programming. Adaptable to new technologies to enhance my skills and capabilities.",
+    desciption:"NetDevOps Engineer with expertise in Network topologies, automation, and programming. Continuously seeking opportunities to expand my skills and capabilities through the integration of emerging technologies.",
     image: Imane,
     resumePdf: Imane_El
 }

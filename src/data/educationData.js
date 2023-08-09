@@ -9,7 +9,7 @@ export const educationData = [
     {
         id: 2,
         institution: 'Telecom Saint-Etienne , France',
-        course: 'Telecoms-Networks',
+        course: 'Masters Degree in Telecoms & Networks',
         startYear: '2014',
         endYear: '2017'
     },
