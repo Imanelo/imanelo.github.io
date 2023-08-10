@@ -1,6 +1,8 @@
 .about {
     min-height: fit-content;
     position: relative;
+    padding: 4rem;
+   
 }
 
 .about .line-styling{

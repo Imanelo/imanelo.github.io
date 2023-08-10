@@ -46,7 +46,7 @@ function Projects() {
     return (
         <>
             {projectsData.length > 0 && (
-                <div className="projects" id="projects" style={{backgroundColor: theme.secondary}}>
+                <div className="projects" id="projects" style={{backgroundColor: theme.secondary70}}>
                     <div className="projects--header">
                         <h1 style={{color: theme.primary}}>Portfolio</h1>
                     </div>

@@ -170,7 +170,7 @@ function Contacts() {
         <div
             className='contacts'
             id='contacts'
-            style={{ backgroundColor: theme.secondary }}
+            style={{ backgroundColor: theme.secondary70 }}
         >
             <div className='contacts--container'>
                 <h1 style={{ color: theme.primary }}>Contacts</h1>
