@@ -9,12 +9,14 @@ function ElevatorPitch() {
     const { theme } = useContext(ThemeContext);
 
     return (
-        <div className="my-elevator-pitch" id="my-pitch">
+        <div className="my-elevator-pitch" id="my-pitch" style={{backgroundColor: theme.secondary}}>
+            <div className="elevator-content">
             <h2 style={{ color: theme.primary }}>My Elevator Pitch</h2>
             <video controls  height="auto">
             <source src={ElevatorPitchData.Video} type="video/mp4" />
                 Your browser does not support the video tag.
             </video>
+            </div>
         </div>
     );
 }

@@ -28,7 +28,7 @@ function About() {
                     />
                 </div>
             </div>
-            <div style={{ height: '80px' }}></div>
+            
         </div>
         
         

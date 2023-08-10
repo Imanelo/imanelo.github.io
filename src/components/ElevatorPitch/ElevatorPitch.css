@@ -1,15 +1,27 @@
 /* ElevatorPitch.css */
 
 .my-elevator-pitch {
-    margin-top: 80px; /* Adjust the margin to create space below the "About" section */
-    margin-bottom: 80px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    text-align: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    padding: 2rem;
+    overflow-x: hidden;
+    
     
 }
+.elevator-content {
+    margin-top: 4rem; /* Add margin at the top */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100vh;
+    padding: 2rem;
+    overflow-x: hidden;
+}
+
 
 .my-elevator-pitch h2 {
     font-size: 3rem;
