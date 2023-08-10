@@ -11,8 +11,8 @@ export const blogData = [
         id: 2,
         title: 'Skills vs Degrees',
         description: 'Degree and skill are two sides of the same coin. To succeed in the race of life, a person needs to have a degree along with the skill.',
-        date: 'Aug 08, 2022',
-        image: 'https://i.ibb.co/Cbg4qfV/Blog2.png',
+        date: 'Aug 08, 2023',
+        image: '',
         url: ''
     },
     
