@@ -67,7 +67,7 @@ function Projects() {
                             ))}
                         </div> 
 
-                        {projectsData.length > 3 && (
+                        {projectsData.length > 0 && (
                             <div className="projects--viewAll">
                                 <Link to="/projects">
                                     <button className={classes.viewAllBtn}>

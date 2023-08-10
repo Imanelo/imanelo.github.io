@@ -63,7 +63,7 @@ function Blog() {
                             ))}
                         </div> 
 
-                        {blogData.length > 3 && (
+                        {blogData.length > 0 && (
                             <div className="blog--viewAll">
                                 <Link to="/blog">
                                     <button className={classes.viewAllBtn}>
