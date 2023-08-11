@@ -11,16 +11,7 @@
     
     
 }
-.elevator-content {
-    margin-top: 4rem; /* Add margin at the top */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    min-height: 100vh;
-    padding: 2rem;
-    overflow-x: hidden;
-}
+
 
 
 .my-elevator-pitch h2 {

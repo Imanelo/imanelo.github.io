@@ -5,6 +5,7 @@ import { IoMenuSharp, IoHomeSharp } from 'react-icons/io5';
 import { HiDocumentText } from 'react-icons/hi';
 import { BsFillGearFill } from 'react-icons/bs';
 import { MdPhone } from 'react-icons/md';
+import { FaVideo } from 'react-icons/fa';
 import { FaUser, FaFolderOpen } from 'react-icons/fa';
 import { makeStyles } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
@@ -218,7 +219,7 @@ function Navbar() {
                                 duration={2000}
                             >
                                 <div className={classes.drawerItem}>
-                                    <FaUser className={classes.drawerIcon} />
+                                    <FaVideo className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
                                         Pitch
                                     </span>
