@@ -1,3 +1,4 @@
+import  quote  from '../assets/jpg/quote6.jpg'
 export const educationData = [
     {
         id: 1,
@@ -20,4 +21,8 @@ export const educationData = [
         startYear: '2012',
         endYear: '2014'
     },
+    
 ]
+export const educationImage={
+    image :quote,
+}

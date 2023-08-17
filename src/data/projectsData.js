@@ -19,16 +19,17 @@ export const projectsData = [
         demo: 'https://youtu.be/BuKOFbW00E8',
         image: 'https://lh3.googleusercontent.com/drive-viewer/AITFw-xvlGeW_MFPFmNX6EKHb-Jm2RpYL1_D_z7gEAMGuoPF1AEJSAtfP3NGm5L0OwuOblTRnrcIR0bvwOkAEWJdrssflTnh=s1600'
     },
-    /*
+   
     {
         id: 3,
-        projectName: 'Agoda Clone',
-        projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
-        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
-        code: 'https://github.com/shailendra7518/Agoda-clone',
-        demo: 'https://agoda-clone.vercel.app/',
-        image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
+        projectName: 'Practice Ansible with Cisco Sandbox',
+        projectDesc: 'Automating Network Management with Ansible and Cisco Sandbox',
+        tags: ['Ansible','Playbook','YAML','Jinja2','Report','Automation','IOSXE'],
+        code: 'https://github.com/Imanelo/Ansible_Cisco_Sandbox.git',
+        demo: 'https://devnetsandbox.cisco.com/RM/Diagram/Index/7b4d4209-a17c-4bc3-9b38-f15184e53a94?diagramType=Topology',
+        image: 'https://lh3.googleusercontent.com/drive-viewer/AITFw-x28Yr21DGtm8H7PETwm5g7ITmu8cAM4MOqNuS8GBPF5b4s3GPwN7YnAT9kzsGegtY3Pi4CkONxISrbgMzzVDabjbU5=s2560'
     },
+     /*
     {
         id: 4,
         projectName: 'Weather App',

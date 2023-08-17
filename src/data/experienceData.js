@@ -1,23 +1,25 @@
+import  quote  from '../assets/jpg/quote10.jpg'
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
+        company: 'Wiibus',
+        jobtitle: 'Telecom Engineer',
         startYear: '2018',
-        endYear: '2019'
+        endYear: '2021'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'Berthiez',
+        jobtitle: 'Industrial Project : Feasibility study of a vision system',
+        startYear: 'May 2016',
+        endYear: 'Sep 2016'
     },
     {
         id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
+        company: 'ONCF',
+        jobtitle: 'Internship: Cellular planning of GSM-R railway network',
+        startYear: 'Apr 2015',
+        endYear: 'Jun 2015'
     },
 ]
+export const experienceImage = quote

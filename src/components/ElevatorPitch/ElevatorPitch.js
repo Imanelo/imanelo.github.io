@@ -11,7 +11,7 @@ function ElevatorPitch() {
     return (
         <div className="my-elevator-pitch" id="my-pitch" style={{backgroundColor: theme.secondary}}>
             
-            <h2 style={{ color: theme.primary }}>My Elevator Pitch</h2>
+            <h2 style={{ color: theme.primary600 }}>Watch My Pitch</h2>
             <video controls  height="auto">
             <source src={ElevatorPitchData.Video} type="video/mp4" />
                 Your browser does not support the video tag.

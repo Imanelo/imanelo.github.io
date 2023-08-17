@@ -43,9 +43,9 @@ function Blog() {
     return (
         <>
             {blogData.length > 0 && (
-                <div className="blog" id="blog" style={{backgroundColor: theme.secondary}}>
+                <div className="blog" id="blog" style={{backgroundColor: theme.secondary70}}>
                     <div className="blog--header">
-                        <h1 style={{color: theme.primary}}>Blog</h1>
+                        <h1 style={{color: theme.primary600}}>Blog</h1>
                     </div>
                     <div className="blog--body">
                         <div className="blog--bodyContainer">

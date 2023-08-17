@@ -6,6 +6,7 @@ import { HiDocumentText } from 'react-icons/hi';
 import { BsFillGearFill } from 'react-icons/bs';
 import { MdPhone } from 'react-icons/md';
 import { FaVideo } from 'react-icons/fa';
+import { MdBuild } from 'react-icons/md';
 import { FaUser, FaFolderOpen } from 'react-icons/fa';
 import { makeStyles } from '@material-ui/core/styles';
 import Drawer from '@material-ui/core/Drawer';
@@ -222,6 +223,21 @@ function Navbar() {
                                     <FaVideo className={classes.drawerIcon} />
                                     <span className={classes.drawerLinks}>
                                         Pitch
+                                    </span>
+                                </div>
+                            </NavLink>
+                        </Fade>
+                        <Fade left>
+                            <NavLink
+                                to='/#projects'
+                                smooth={true}
+                                spy='true'
+                                duration={2000}
+                            >
+                                <div className={classes.drawerItem}>
+                                    <MdBuild className={classes.drawerIcon} />
+                                    <span className={classes.drawerLinks}>
+                                        Portfolio
                                     </span>
                                 </div>
                             </NavLink>
