@@ -1,4 +1,4 @@
-# Portfolio - Imane E l ouadi
+# Portfolio - Imane El ouadi
 
 This is the repository for my portfolio website. The portfolio showcases my skills, projects, and achievements. It serves as a central hub for potential employers, clients, or collaborators to learn more about my work and get in touch.
 
