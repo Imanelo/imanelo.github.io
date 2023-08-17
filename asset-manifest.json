@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.675d266f.chunk.css",
-    "main.js": "/static/js/main.531b9679.chunk.js",
-    "main.js.map": "/static/js/main.531b9679.chunk.js.map",
+    "main.js": "/static/js/main.986e204f.chunk.js",
+    "main.js.map": "/static/js/main.986e204f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aa439cd6.js",
     "runtime-main.js.map": "/static/js/runtime-main.aa439cd6.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -39,7 +39,7 @@
     "static/media/capacitorjs.7517cfe2.svg": "/static/media/capacitorjs.7517cfe2.svg",
     "static/media/coffeescript.848d1c77.svg": "/static/media/coffeescript.848d1c77.svg",
     "static/media/contactsBlack.888fb542.svg": "/static/media/contactsBlack.888fb542.svg",
-    "static/media/contactsBlue.e1eaa251.svg": "/static/media/contactsBlue.e1eaa251.svg",
+    "static/media/contactsBlue.4e4c9752.svg": "/static/media/contactsBlue.4e4c9752.svg",
     "static/media/contactsGreen.808a7bb5.svg": "/static/media/contactsGreen.808a7bb5.svg",
     "static/media/contactsOrange.75754594.svg": "/static/media/contactsOrange.75754594.svg",
     "static/media/contactsPink.ed39afa6.svg": "/static/media/contactsPink.ed39afa6.svg",
@@ -129,8 +129,8 @@
     "static/media/purpleTheme-girl.56852c94.svg": "/static/media/purpleTheme-girl.56852c94.svg",
     "static/media/python.cf32ad96.svg": "/static/media/python.cf32ad96.svg",
     "static/media/pytorch.1862724d.svg": "/static/media/pytorch.1862724d.svg",
-    "static/media/quote10.a3c5e130.jpg": "/static/media/quote10.a3c5e130.jpg",
-    "static/media/quote6.d56816b7.jpg": "/static/media/quote6.d56816b7.jpg",
+    "static/media/quote10.d5fab2d3.png": "/static/media/quote10.d5fab2d3.png",
+    "static/media/quote6.95e90084.png": "/static/media/quote6.95e90084.png",
     "static/media/quotes3.3c5a7058.jpg": "/static/media/quotes3.3c5a7058.jpg",
     "static/media/react.2b6a0717.svg": "/static/media/react.2b6a0717.svg",
     "static/media/redTheme-boy.846d9d39.svg": "/static/media/redTheme-boy.846d9d39.svg",
@@ -166,6 +166,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.271678db.chunk.js",
     "static/css/main.675d266f.chunk.css",
-    "static/js/main.531b9679.chunk.js"
+    "static/js/main.986e204f.chunk.js"
   ]
 }
