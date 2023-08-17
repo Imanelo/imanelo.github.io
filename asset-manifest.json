@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4265cef.chunk.css",
+    "main.css": "/static/css/main.282b771b.chunk.css",
     "main.js": "/static/js/main.7130a3d2.chunk.js",
     "main.js.map": "/static/js/main.7130a3d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.aa439cd6.js",
@@ -12,7 +12,7 @@
     "static/js/3.c479a452.chunk.js.map": "/static/js/3.c479a452.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.b4265cef.chunk.css.map": "/static/css/main.b4265cef.chunk.css.map",
+    "static/css/main.282b771b.chunk.css.map": "/static/css/main.282b771b.chunk.css.map",
     "static/js/2.271678db.chunk.js.LICENSE.txt": "/static/js/2.271678db.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/ComingSoon.e66bc0cf.mp4": "/static/media/ComingSoon.e66bc0cf.mp4",
@@ -165,7 +165,7 @@
     "static/js/runtime-main.aa439cd6.js",
     "static/css/2.19627560.chunk.css",
     "static/js/2.271678db.chunk.js",
-    "static/css/main.b4265cef.chunk.css",
+    "static/css/main.282b771b.chunk.css",
     "static/js/main.7130a3d2.chunk.js"
   ]
 }
