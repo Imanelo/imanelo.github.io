@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca0857b7.chunk.css",
+    "main.css": "/static/css/main.8460c49d.chunk.css",
     "main.js": "/static/js/main.5965a9d2.chunk.js",
     "main.js.map": "/static/js/main.5965a9d2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.912b4e1a.js",
@@ -12,7 +12,7 @@
     "static/js/3.20199729.chunk.js.map": "/static/js/3.20199729.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.ca0857b7.chunk.css.map": "/static/css/main.ca0857b7.chunk.css.map",
+    "static/css/main.8460c49d.chunk.css.map": "/static/css/main.8460c49d.chunk.css.map",
     "static/js/2.b0969285.chunk.js.LICENSE.txt": "/static/js/2.b0969285.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/Imane.d12f453b.jpg": "/static/media/Imane.d12f453b.jpg",
@@ -167,7 +167,7 @@
     "static/js/runtime-main.912b4e1a.js",
     "static/css/2.19627560.chunk.css",
     "static/js/2.b0969285.chunk.js",
-    "static/css/main.ca0857b7.chunk.css",
+    "static/css/main.8460c49d.chunk.css",
     "static/js/main.5965a9d2.chunk.js"
   ]
 }
