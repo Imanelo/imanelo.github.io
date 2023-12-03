@@ -17,7 +17,7 @@ export const projectsData = [
         tags: ['GCGO : Tourism', 'Google Slides', 'App'],
         code: 'https://docs.google.com/presentation/d/1qn8NegnqCaftNRQb34CLdzF65g3A0RTE4lOxXSTAptY/edit?usp=sharing',
         demo: 'https://youtu.be/BuKOFbW00E8',
-        image: 'https://drive.google.com/ucexport=view&id=16fHQZJAk8O_F1xaCSVK3wR5a_T0S-sTH'
+        image: 'https://drive.google.com/uc?export=view&id=16fHQZJAk8O_F1xaCSVK3wR5a_T0S-sTH'
     },
    
     {
@@ -27,7 +27,7 @@ export const projectsData = [
         tags: ['Ansible','Playbook','YAML','Jinja2','Report','Automation','IOSXE'],
         code: 'https://github.com/Imanelo/Ansible_Cisco_Sandbox.git',
         demo: 'https://devnetsandbox.cisco.com/RM/Diagram/Index/7b4d4209-a17c-4bc3-9b38-f15184e53a94?diagramType=Topology',
-        image: 'https://lh3.googleusercontent.com/drive-viewer/AITFw-x28Yr21DGtm8H7PETwm5g7ITmu8cAM4MOqNuS8GBPF5b4s3GPwN7YnAT9kzsGegtY3Pi4CkONxISrbgMzzVDabjbU5=s2560'
+        image: 'https://drive.google.com/uc?export=view&id=1SArxCVAmvjTIBkM6iW7KzwnpzkmMtwLY'
     },
      /*
     {
