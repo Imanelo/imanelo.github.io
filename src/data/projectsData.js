@@ -17,7 +17,7 @@ export const projectsData = [
         tags: ['GCGO : Tourism', 'Google Slides', 'App'],
         code: 'https://docs.google.com/presentation/d/1qn8NegnqCaftNRQb34CLdzF65g3A0RTE4lOxXSTAptY/edit?usp=sharing',
         demo: 'https://youtu.be/BuKOFbW00E8',
-        image: 'https://lh3.googleusercontent.com/drive-viewer/AITFw-xvlGeW_MFPFmNX6EKHb-Jm2RpYL1_D_z7gEAMGuoPF1AEJSAtfP3NGm5L0OwuOblTRnrcIR0bvwOkAEWJdrssflTnh=s1600'
+        image: 'https://drive.google.com/ucexport=view&id=16fHQZJAk8O_F1xaCSVK3wR5a_T0S-sTH'
     },
    
     {
