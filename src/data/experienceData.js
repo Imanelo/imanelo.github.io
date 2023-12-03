@@ -1,4 +1,4 @@
-import  quote  from '../assets/jpg/quote10.jpg'
+import  quote  from '../assets/png/quote10.png'
 export const experienceData = [
     {
         id: 1,

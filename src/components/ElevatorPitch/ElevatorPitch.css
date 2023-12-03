@@ -1,28 +1,67 @@
-/* ElevatorPitch.css */
-
-.my-elevator-pitch {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
+.video {
+    
     min-height: 100vh;
-    padding: 2rem;
-    overflow-x: hidden;
-    
-    
+    position: relative;
+    padding: 4rem;
 }
 
+.video-content {
+    display: flex;
+    align-items: flex-start; /* Align content at the top */
+    justify-content: space-between;
+    flex-wrap: wrap; /* Allow content to wrap on smaller screens */
+}
 
+.video-description {
+    flex: 1;
+    max-width: 50%; /* Take up half the width on larger screens */
+    text-align: left; /* Align text to the left */
+    padding: 0 8rem; /* Add horizontal padding */
+    margin-bottom: 2rem; /* Add some space between the video description and video */
+}
 
-.my-elevator-pitch h2 {
-    font-size: 3rem;
-    color: var(--primaryColor); /* Use your primary color here */
-    margin-bottom: 20px;
+.video-description h2 {
+    margin-bottom: 40px;
+    font-size: 3.5rem;
     font-family: var(--primaryFont);
 }
 
-.my-elevator-pitch video {
-    max-width: 80%;
-    border-radius: 8px;
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+.video-description p {
+    font-size: 1.8rem;
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+    text-align: justify;
+    margin-bottom: 3rem;
+}
+
+.video-description img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.thevideo {
+    flex: 1; /* Take up the other half of the width */
+    padding-top: 56.25%; /* 16:9 aspect ratio for responsive video */
+    position: relative;
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%; /* Ensure the video takes full width */
+    height: 100%; /* Ensure the video takes full height */
+}
+
+@media (max-width: 768px) {
+    .video {
+        flex-direction: column;
+      }
+    .video-description,
+    .thevideo {
+        max-width: 100%; /* On smaller screens, make both take full width */
+        padding: 0; /* Remove horizontal padding */
+        margin-bottom: 2rem; /* Add some space between the stacked elements */
+    }
 }

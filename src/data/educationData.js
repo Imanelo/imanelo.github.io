@@ -1,4 +1,4 @@
-import  quote  from '../assets/jpg/quote6.jpg'
+import  quote  from '../assets/png/quote6.png'
 export const educationData = [
     {
         id: 1,
