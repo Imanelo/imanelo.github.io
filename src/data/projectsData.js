@@ -6,7 +6,8 @@ import five from '../assets/svg/projects/five.svg'
 import six from '../assets/svg/projects/six.svg'
 import seven from '../assets/svg/projects/seven.svg'
 import eight from '../assets/svg/projects/eight.svg'
-
+import imone from '../assets/png/pitchcooperative.png'
+import imtwo from '../assets/png/ansible.png'
 
 export const projectsData = [
     
@@ -17,7 +18,7 @@ export const projectsData = [
         tags: ['GCGO : Tourism', 'Google Slides', 'App'],
         code: 'https://docs.google.com/presentation/d/1qn8NegnqCaftNRQb34CLdzF65g3A0RTE4lOxXSTAptY/edit?usp=sharing',
         demo: 'https://youtu.be/BuKOFbW00E8',
-        image: 'https://drive.google.com/uc?export=view&id=16fHQZJAk8O_F1xaCSVK3wR5a_T0S-sTH'
+        image: imone
     },
    
     {
@@ -27,7 +28,7 @@ export const projectsData = [
         tags: ['Ansible','Playbook','YAML','Jinja2','Report','Automation','IOSXE'],
         code: 'https://github.com/Imanelo/Ansible_Cisco_Sandbox.git',
         demo: 'https://devnetsandbox.cisco.com/RM/Diagram/Index/7b4d4209-a17c-4bc3-9b38-f15184e53a94?diagramType=Topology',
-        image: 'https://drive.google.com/uc?export=view&id=1SArxCVAmvjTIBkM6iW7KzwnpzkmMtwLY'
+        image: imtwo
     },
      /*
     {

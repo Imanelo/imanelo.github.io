@@ -260,6 +260,23 @@ function Navbar() {
                                 </div>
                             </NavLink>
                         </Fade>
+                        <Fade left>
+                            <NavLink
+                                to='/#achievement'
+                                smooth={true}
+                                spy='true'
+                                duration={2000}
+                            >
+                                <div className={classes.drawerItem}>
+                                    <HiDocumentText
+                                        className={classes.drawerIcon}
+                                    />
+                                    <span className={classes.drawerLinks}>
+                                        Certification
+                                    </span>
+                                </div>
+                            </NavLink>
+                        </Fade>
 
                         <Fade left>
                             <NavLink

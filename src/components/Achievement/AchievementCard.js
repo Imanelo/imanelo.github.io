@@ -35,13 +35,15 @@ function AchievementCard({id, title, details, date, field, image}) {
                         <div className="achievecard-field">
                             <AiOutlineFolder />
                             <h5>{field}</h5>
-                        </div>   
+                        </div>
+       
                     </div>
                 </div> 
                 <div className="achievecard-imgcontainer">
                     <img src={image} alt="" />
                 </div>
            </div>
+           
         </Fade>
         
     )
