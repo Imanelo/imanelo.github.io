@@ -8,7 +8,7 @@ import { AiOutlineFolder } from "react-icons/ai";
 
 import './Achievement.css'
 
-function AchievementCard({id, title, details, date, field, image}) {
+function AchievementCard({id, title, details, date, field, image,link}) {
 
     const { theme } = useContext(ThemeContext);
 
@@ -22,9 +22,16 @@ function AchievementCard({id, title, details, date, field, image}) {
     }));
 
     const classes = useStyles();
+    const handleCardClick = () => {
+        if (link) {
+            window.open(link, '_blank');  // Open link in a new tab
+        }
+    };
     return (
         <Fade bottom>
-           <div key={id} className={`achievement-card ${classes.achievementCard}`}>
+           <div key={id} className={`achievement-card ${classes.achievementCard}`}
+           onClick={handleCardClick} >
+            
                <div className="achievecard-content">
                     <div className="achievecard-details1">
                         <h2 style={{color: theme.tertiary}}>{title}</h2>
