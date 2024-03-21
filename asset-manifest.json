@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c38bc25a.chunk.css",
-    "main.js": "/static/js/main.629a2142.chunk.js",
-    "main.js.map": "/static/js/main.629a2142.chunk.js.map",
+    "main.js": "/static/js/main.a3a98d79.chunk.js",
+    "main.js.map": "/static/js/main.a3a98d79.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.912b4e1a.js",
     "runtime-main.js.map": "/static/js/runtime-main.912b4e1a.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -17,7 +17,7 @@
     "static/media/AWS-Certified-Cloud-Practitioner.f685d63a.png": "/static/media/AWS-Certified-Cloud-Practitioner.f685d63a.png",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/Imane.d12f453b.jpg": "/static/media/Imane.d12f453b.jpg",
-    "static/media/Imane_El ouadi.3a16c415.pdf": "/static/media/Imane_El ouadi.3a16c415.pdf",
+    "static/media/Imane_El ouadi.54800b25.pdf": "/static/media/Imane_El ouadi.54800b25.pdf",
     "static/media/Mona-Lisa.8983a180.jpg": "/static/media/Mona-Lisa.8983a180.jpg",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
     "static/media/adobeaudition.afa937d5.svg": "/static/media/adobeaudition.afa937d5.svg",
@@ -171,6 +171,6 @@
     "static/css/2.19627560.chunk.css",
     "static/js/2.17ed169f.chunk.js",
     "static/css/main.c38bc25a.chunk.css",
-    "static/js/main.629a2142.chunk.js"
+    "static/js/main.a3a98d79.chunk.js"
   ]
 }
