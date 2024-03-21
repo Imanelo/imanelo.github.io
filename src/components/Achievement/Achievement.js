@@ -25,7 +25,6 @@ function Achievement() {
                         details={achieve.details}
                         date={achieve.date}
                         field={achieve.field}
-                        link={achieve.link}
                         image={achieve.image}/>
                     ))}
                 </div>
