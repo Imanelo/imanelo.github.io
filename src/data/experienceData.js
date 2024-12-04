@@ -2,10 +2,10 @@ import  quote  from '../assets/png/quote10.png'
 export const experienceData = [
     {
         id: 1,
-        company: 'Wiibus',
-        jobtitle: 'Telecom Engineer',
-        startYear: '2018',
-        endYear: '2021'
+        company: 'SQLI',
+        jobtitle: 'Rest Api Test automaton intern',
+        startYear: 'Jun 2023',
+        endYear: 'Nov 2023'
     },
     {
         id: 2,
